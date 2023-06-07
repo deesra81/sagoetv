@@ -180,10 +180,11 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 
-----Premier League TV----
-#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://i.imgur.com/BAW2lC2.png" group-title="2. SPORTS",Premier League TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=chamepl
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://prod-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
+----Usee Sports----
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="2. SPORTS",Usee Sports
+https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTU0LnRz
+
+
+----Usee Sports 2----
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.imgur.com/gjOetQG.png" group-title="2. SPORTS",Usee Sports 2
+https://anon.devds.site/link.php?hash=aHR0cDovL3Bwcm90di5jb206ODAvbGl2ZS9TdWx0YW4xMjMvU3VsdGFuMTIzMTIzLzM5NTU1LnRz
