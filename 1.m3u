@@ -182,11 +182,29 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
 #EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png" group-title="2. TVRI DAERAH", TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BALI.png" group-title="2. TVRI DAERAH", TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/LAMPUNG.png" group-title="2. TVRI DAERAH", TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/GORONTALO.png" group-title="2. TVRI DAERAH", TVRI Gorontalo
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20BARAT.png" group-title="2. TVRI DAERAH", TVRI Sumatera Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20UTARA.png" group-title="2. TVRI DAERAH", TVRI Sumatera Utara
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/MALUKU.png" group-title="2. TVRI DAERAH", TVRI Maluku
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png" group-title="2. TVRI DAERAH", TVRI Sulawesi Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png" group-title="2. TVRI DAERAH", TVRI Sulawesi Utara
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
 
 
 ########### 3. SPORTS ##############
@@ -320,6 +338,22 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
+----Barça TV----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DnpNtj.png" group-title="3. SPORTS", Barça TV
+https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd
+
+
+----Inter TV----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PFSbiCX.png" group-title="3. SPORTS", Inter TV
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+
+
+----Ziggo Sports Golf----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMfvcUl.png" group-title="Sports", Ziggo Sports Golf
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
+
+
+
 
 ########### 4. FOOTBALL ##############
 
@@ -346,3 +380,107 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+
+
+
+########### 5. KNOWLEDGE ##############
+
+----BeSmart----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeHjkIG.png" group-title="5. KNOWLEDGE", BeSmart
+http://103.152.118.53:80/streams/visyen/dash/BeSmart/master.mpd
+
+
+
+
+########### 6. MOVIES ##############
+
+----tvN Movies----
+#EXTINF:-1 tvg-logo="https://posters.cdn.klikfilm.net/ph/tvn_logo.png" group-title="6. MOVIES", tvN Movies
+http://103.152.118.53:80/streams/visyen/dash/tvNMovies/master.mpd
+
+
+----tvN----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="6. MOVIES", tvN
+http://103.152.118.53:80/streams/visyen/dash/tvN/master.mpd
+
+
+----Thrill----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="6. MOVIES", Thrill
+http://103.152.118.53:80/streams/visyen/dash/Thrill/master.mpd
+
+
+----Zee Bioskop----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="6. MOVIES", Zee Bioskop
+http://103.152.118.53:80/streams/visyen/dash/ZeeBIOSKOP/master.mpd
+
+
+----HITS Movies----
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="6. MOVIES", HITS Movies
+http://103.152.118.53:80/streams/visyen/dash/HitsMovies/master.mpd
+
+
+----Galaxy Premium----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbqpsDe.png" group-title="6. MOVIES", Galaxy Premium
+http://103.152.118.53:80/streams/visyen/dash/GalaxyPremium-HD/master.mpd
+
+
+----Galaxy----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdohVJI.png" group-title="6. MOVIES", Galaxy
+http://103.152.118.53:80/streams/visyen/dash/Galaxy-HD/master.mpd
+
+
+----IMC----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2D8xN.png" group-title="6. MOVIES", IMC
+http://103.152.118.53:80/streams/visyen/dash/IndonesiaMovieChannels-HD/master.mpd
+
+
+----Celestial Classic Movies----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="6. MOVIES", Celestial Classic Movies
+http://103.152.118.53:80/streams/visyen/dash/CelestialClassic/master.mpd
+
+
+----Celestial Movies----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="6. MOVIES", Celestial Movies
+http://103.152.118.53:80/streams/visyen/dash/CelestialMovie/master.mpd
+
+
+----My Family----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="6. MOVIES", My Family
+http://103.152.118.53:80/streams/visyen/dash/MyFamily/master.mpd
+
+
+----Cinemachi Action----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEaI5Kd.png" group-title="6. MOVIES", Cinemachi Action
+http://103.152.118.53:80/streams/visyen/dash/Cinemachi-Action/master.mpd
+
+
+----Cinemachi----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ljwpith.png" group-title="6. MOVIES", Cinemachi
+http://103.152.118.53:80/streams/visyen/dash/Cinemachi-HD/master.mpd
+
+
+
+
+
+########### 7. RELIGION ##############
+
+
+----Al-Qur'an Al-Kareem TV----
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/al_kareem.png" group-title="7. RELIGION", Al-Qur'an Al-Kareem TV
+http://103.152.118.53:80/streams/visyen/dash/AlQuranAlKareem/master.mpd
+
+
+----Muslim TV----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Muslim_TV_%282020%29.png" group-title="7. RELIGION", Muslim TV
+http://103.152.118.53:80/streams/visyen/dash/MNCMuslim/master.mpd
+
+
+----Tawaf TV----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSf31rm/tawaf-tv-removebg-preview.png" group-title="7. RELIGION", Tawaf TV
+http://103.152.118.53:80/streams/visyen/dash/TawafTV/master.mpd
+
+
+----Rodja TV----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="7. RELIGION", Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
