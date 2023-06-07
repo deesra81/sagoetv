@@ -121,7 +121,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 
 ########### 2. TVRI DAERAH ##############
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png" group-title="N2. TVRI DAERAH", TVRI Kalimantan Tengah
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png" group-title="2. TVRI DAERAH", TVRI Kalimantan Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAMBI.png" group-title="2. TVRI DAERAH", TVRI Jambi
