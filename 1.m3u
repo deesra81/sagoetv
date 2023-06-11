@@ -450,6 +450,31 @@ https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", BT SPORT EXTRA 1 SD UK
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/63892
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", BT SPORT EXTRA 2 SD UK
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/63893
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", BT SPORT EXTRA 3 SD UK
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/63894
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", BT SPORT EXTRA 4 SD UK
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/63895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", UK: BT Sport 1 HD
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/171034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", UK: BT Sport 2 HD
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/171035
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", UK: BT Sport 3 HD
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/171036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. FOOTBALL", UK: BT Sport 4 HD
+http://onrev.xyz:80/mag00:1A:79:54:9C:89/7LXphptmYO/171037
+
+
 
 ########### 5. KNOWLEDGE ##############
 
@@ -506,11 +531,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 
 ----Cinemax----
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="6. MOVIES",Cinemax
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
@@ -619,7 +644,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://i.imgur.com/HfoZk5z.png" group-title="6. MOVIES",HBO
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="6. MOVIES",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
@@ -629,7 +654,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.imgur.com/Cd70C6B.png" group-title="6. MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="6. MOVIES",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
@@ -639,7 +664,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.imgur.com/qfV9dBF.png" group-title="6. MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="6. MOVIES",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
@@ -649,7 +674,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://i.imgur.com/Okzj190.png" group-title="6. MOVIES",HBO Family
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="6. MOVIES",HBO Family
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
