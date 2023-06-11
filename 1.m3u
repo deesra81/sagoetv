@@ -685,6 +685,27 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
+----Etv Bioskop----
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="6. MOVIES",Etv Bioskop
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298526
+
+
+----Etv Bioskop 02----
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="6. MOVIES",Etv Bioskop 02
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298527
+
+
+----Etv Bioskop 03----
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="6. MOVIES",Etv Bioskop 03
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298528
+
+
+----Etv Bioskop 04----
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0" group-title="6. MOVIES",Etv Bioskop 04
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298529
+
+
+
 
 
 ########### 7. RELIGION ##############
