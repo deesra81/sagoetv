@@ -638,16 +638,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 
 
 ----HBO----
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="6. MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="6. MOVIES",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 ----HBO Hits----
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="6. MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="6. MOVIES",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
