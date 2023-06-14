@@ -384,12 +384,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857fe540a1018060a0c34
 
 
 ----TVRI Sports----
-#EXTINF:-1 tvg-logo="" group-title="3. SPORTS",TVRI_SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="3. SPORTS",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
 ----MOTORVISIONTV----
-#EXTINF:-1 tvg-logo="https://kiwimelon46.000webhostapp.com/tv/motorvisiontv.png" group-title="3. SPORTS" ,MOTORVISIONTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="3. SPORTS" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 
